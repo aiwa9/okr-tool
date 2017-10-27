@@ -1,0 +1,28 @@
+{
+  "name": "okr-tool",
+  "version": "1.0.0",
+  "description": "okr tool",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Najwa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aiwa9/okr-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aiwa9/okr-tool/issues"
+  },
+  "homepage": "https://github.com/aiwa9/okr-tool#readme"
+}
